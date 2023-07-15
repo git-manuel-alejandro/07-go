@@ -6,6 +6,8 @@ import (
 
 func main() {
 
-	intro.Datos()
+	intro.Punteros()
+
+	// intro.Datos()
 	// fmt.Println(intro.Variables())
 }
