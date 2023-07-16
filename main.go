@@ -6,8 +6,10 @@ import (
 
 func main() {
 
-	intro.Break()
+	intro.Ciclos("uno")
+	intro.Ciclos("dos")
 
+	// intro.Break()
 	// fmt.Println(intro.Condicionales(17))
 	// intro.Punteros()
 	// intro.Datos()
