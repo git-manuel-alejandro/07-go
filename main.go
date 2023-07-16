@@ -2,12 +2,15 @@ package main
 
 import (
 	"curso-go/intro"
+	"fmt"
 )
 
 func main() {
 
-	intro.Slice()
+	fmt.Println(intro.FuncionAnonima())
 
+	// fmt.Println(intro.Funciones(1, 3))
+	// intro.Slice()
 	// intro.Arrays()
 	// intro.Ciclos("uno")
 	// intro.Ciclos("dos")
