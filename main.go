@@ -1,12 +1,11 @@
 package main
 
-import (
-	"curso-go/intro"
-)
+import "curso-go/poo"
 
 func main() {
 
-	intro.Recursion(0)
+	poo.Estructura()
+	// intro.Recursion(0)
 
 	// intro.GoRutines()
 	// fmt.Println(intro.FuncionAnonima())
