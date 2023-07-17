@@ -6,8 +6,9 @@ import (
 
 func main() {
 
-	intro.GoRutines()
+	intro.Recursion(0)
 
+	// intro.GoRutines()
 	// fmt.Println(intro.FuncionAnonima())
 	// fmt.Println(intro.Funciones(1, 3))
 	// intro.Slice()
