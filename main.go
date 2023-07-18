@@ -6,8 +6,9 @@ import (
 
 func main() {
 
-	modulos.Tiempo()
+	modulos.Strings()
 
+	// modulos.Tiempo()
 	// poo.Estructura()
 	// intro.Recursion(0)
 
