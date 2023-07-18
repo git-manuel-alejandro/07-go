@@ -1,10 +1,14 @@
 package main
 
-import "curso-go/poo"
+import (
+	"curso-go/tiempo"
+)
 
 func main() {
 
-	poo.Estructura()
+	tiempo.Tiempo()
+
+	// poo.Estructura()
 	// intro.Recursion(0)
 
 	// intro.GoRutines()
